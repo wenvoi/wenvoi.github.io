@@ -1,13 +1,13 @@
 # wenvoi.github.io
 ---
-##**算法Javascript题解**
+## **算法Javascript题解**
 [算法公众号](https://www.baidu.com)
 <a href="https://www.baidu.com)" target="_blank">算法题解</a>
 - 链表
 * 数组
 - 字符串
 ---
-###算法类型
+### 算法类型
 1. DP
 2. Hash
 3. 贪心
